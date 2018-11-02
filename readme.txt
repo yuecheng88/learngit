@@ -9,3 +9,6 @@ git windows 下载（国内的镜像，官网网速太慢），安装（所以�
 添加文件到git：git add file  ,  git commit -m ""
 
 注意：文件必须放在git 目录或子目录
+
+
+提交远程github
